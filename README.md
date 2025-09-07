@@ -11,13 +11,11 @@ Git has 4 main areas :
 4.  **Remote Repository (origin):** The shared repository on a server like GitHub or GitLab. We share our commits here with `git push`.
 
 
----
----
+
 
 
 ## GIT COMMANDS (IN ORDER OF USE)
 
----
 
 **GIT INIT**
 *   **WHAT IT DOES:** Initializes a new Git repository in the current directory. Creates a hidden `.git` folder that tracks all changes.
